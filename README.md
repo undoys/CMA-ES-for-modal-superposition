@@ -1,1 +1,1 @@
-# CMA-ES-for-modal-superposition
+# CMA-ES
